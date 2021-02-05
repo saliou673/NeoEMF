@@ -1,0 +1,17 @@
+= Documentation
+
+== Install Antora
+
+== Build website
+
+`npm run build`
+
+== Preview
+
+Install the http-server package globally using npm
+
+`npm i -g http-server`
+
+Then run
+
+`http-server build/site -c-1`

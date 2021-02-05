@@ -1,0 +1,12 @@
+{
+  "name": "antoratest",
+  "version": "1.0.0",
+  "description": "Simple test for antora",
+  "main": "index.js",
+  "scripts": {
+    "build": "antora antora-playbook.yml",
+    "serve": "http-server build/site -c-1"
+  },
+  "author": "Mamadou",
+  "license": "ISC"
+}
