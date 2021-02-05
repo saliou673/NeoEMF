@@ -1,4 +1,4 @@
-superNeoEMF
+NeoEMF
 ======
 [![Build Status](https://www.travis-ci.org/atlanmod/NeoEMF.svg?branch=master)](https://www.travis-ci.org/atlanmod/NeoEMF)
 [![CodeCov](https://codecov.io/gh/atlanmod/NeoEMF/branch/master/graph/badge.svg)](https://codecov.io/gh/atlanmod/NeoEMF)
